@@ -1,16 +1,23 @@
 # Python Learning Journey
 
-This repository contains exercises and projects from my Python studies.
+This repository documents my progress while studying Python.
 
-## Currently studying
-- Python Programming Specialization (University of Michigan)
+## 📚 Currently Studying
+- Python Programming Specialization – University of Michigan
 
-## Goals
+## 🎯 Goals
 - Build strong programming foundations
+- Develop problem-solving skills
 - Prepare for Artificial Intelligence studies
 
-## Topics covered
+## 📂 Repository Structure
+- exercises/ → Practice problems from platforms like HackerRank
+- projects/ → Small practical projects
+- notes/ → Personal study notes
+
+## 🧠 Topics Covered
 - Variables
+- Conditionals
 - Loops
 - Functions
-- Problem solving
+- Problem Solving
